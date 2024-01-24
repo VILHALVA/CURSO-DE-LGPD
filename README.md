@@ -2,13 +2,7 @@
 👨‍⚖️A LGPD (LEI GERAL DE PROTEÇÃO DE DADOS) É UMA LEI BRASILEIRA QUE ESTABELECE REGRAS PARA O TRATAMENTO E PROTEÇÃO DE DADOS PESSOAIS. ELA GARANTE MAIOR CONTROLE E PRIVACIDADE AOS INDIVÍDUOS EM RELAÇÃO AO USO DE SUAS INFORMAÇÕES.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=LGPD)
-
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dlLcV0H86FKT1NVVkY71Q4Y&si=Xvt139KoVqrmPgEm)
-
-<img src="https://t.ctcdn.com.br/LMVrTHWIC56I4nHXcLIEpP6LB2g=/1280x720/smart/i357451.png" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 **Definição:** Dados pessoais são informações que permitem a identificação de uma pessoa natural, como nome, e-mail, telefone, CPF, RG, endereço, etc.
